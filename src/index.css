@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=REM:wght@700&display=swap');
+
+body {
+  font-family: 'REM', sans-serif;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+  color: #fff;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+div {
+  width: 800px;
+  padding: 10px;
+
+
+}
